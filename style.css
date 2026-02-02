@@ -1,3 +1,29 @@
+/* NAVBAR */
+.navbar {
+  background: #1b5e20;
+  color: white;
+  padding: 15px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-logo {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.nav-menu a {
+  color: white;
+  margin-left: 20px;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.nav-menu a:hover {
+  text-decoration: underline;
+}
+
 body {
   margin: 0;
   font-family: "Segoe UI", Arial, sans-serif;
