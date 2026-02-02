@@ -1,24 +1,4 @@
-/* HERO SECTION */
-.hero {
-  background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-              url("https://images.unsplash.com/photo-1501004318641-b39e6451bec6");
-  background-size: cover;
-  background-position: center;
-  color: white;
-  text-align: center;
-  padding: 100px 30px;
-}
 
-.hero h1 {
-  font-size: 42px;
-  margin-bottom: 20px;
-}
-
-.hero p {
-  font-size: 18px;
-  max-width: 800px;
-  margin: auto;
-}
 
 /* NAVBAR */
 .navbar {
@@ -92,5 +72,25 @@ h2 {
     </div>
   </div>
 </section>
+/* HERO SECTION */
+.hero {
+  background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+              url("https://images.unsplash.com/photo-1501004318641-b39e6451bec6");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  text-align: center;
+  padding: 100px 30px;
+}
 
+.hero h1 {
+  font-size: 42px;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 18px;
+  max-width: 800px;
+  margin: auto;
+}
 
